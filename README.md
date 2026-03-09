@@ -43,6 +43,18 @@ The solar cycle is driven by the internal tension of the plenum. The "Twist" rep
 
 ![Solar Snap Flip](./Gravity/images/solar_snap_flip.png)
 
+## 📑 Formal Documentation
+
+Explore the complete mathematical and philosophical derivation of this model:
+
+🚀 **[The Unified Field and Motion Protocol: A Theory of Locked and Freed Energy](./Gravity/documents/Gravity.pdf)**
+
+---
+
+### What this document covers:
+* **The $180^\circ$ Phase-Lock:** A deep dive into why magnetism is stored, invisible energy.
+* **The "Yasbahun" Constant:** Defining the relationship between planetary weight ($W$) and the fluid density of the plenum.
+* **Gravity as Grid-Scrunch:** The transition from Newtonian attraction to spatial energy density gradients.
 ---
 
 ## 🛠 Variables & Mapping
