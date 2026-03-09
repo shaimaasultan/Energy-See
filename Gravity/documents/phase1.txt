@@ -1,0 +1,25 @@
+# INITIALIZE THE UNIVERSE
+Grid_Size = 1000  # Our "Space"
+Field_A = Array(Grid_Size) 
+Field_B = Array(Grid_Size)
+
+# STEP 1: CREATE THE "MORNING LIGHT" (Energy A)
+# A fast wiggle moving from left to right
+for x in range(Grid_Size):
+    Field_A[x] = sin(x * Frequency_A)
+
+# STEP 2: CREATE THE "LOCKING" FIELD (Energy B)
+# We shift the phase to "cancel" Field A
+Phase_Shift = PI # This is the 180-degree flip
+for x in Grid_Size:
+    Field_B[x] = sin(x * Frequency_A + Phase_Shift)
+
+# STEP 3: THE "UNIFIED FIELD" (The Result)
+# We add them together to see the "Darkness"
+Resulting_Field = Field_A + Field_B
+
+# OUTPUT THE RESULT
+if Resulting_Field == 0:
+    print("ENERGY IS LOCKED (Darkness/Magnetism)")
+else:
+    print("ENERGY IS FREED (Visible Light/Electricity)")
