@@ -36,12 +36,12 @@ Our model proves that the 8 planets are not merely floating in a void; they are 
 #### 1. Full 8-Planet Resonant Orrery
 This map illustrates the total systemic interference lattice. The outer giants create the structural skeleton, while the terrestrial planets act as high-frequency modulators.
 
-![Full Orrery Resonance](./images/full_orrery_resonance.png)
+![Full Orrery Resonance](./Gravity/images/full_orrery_resonance.png)
 
 #### 2. The Snap/Flip Mechanism (Solar Cycle)
 The solar cycle is driven by the internal tension of the plenum. The "Twist" represents the phase offset between interior energy and the surface magnetic field.
 
-![Solar Snap Flip](./images/solar_snap_flip.png)
+![Solar Snap Flip](./Gravity/images/solar_snap_flip.png)
 
 ---
 
