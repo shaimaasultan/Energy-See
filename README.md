@@ -30,6 +30,7 @@ Explore the complete mathematical and philosophical derivation of this model:
 ![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12013939.png)
 ![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12014634(1).png)
 ![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12014634(2).png)
+![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12015254.png)
 ---
 
 ### What this document covers:
