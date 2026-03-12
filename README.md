@@ -25,7 +25,11 @@ In this theory, Gravity is not a separate force. It is the **Spatial Density Gra
 Explore the complete mathematical and philosophical derivation of this model:
 
 🚀 **[The Unified Field and Motion Protocol: A Theory of Locked and Freed Energy](./Gravity/documents/Gravity.pdf)**
-
+![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12013922.png)
+![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12013946.png)
+![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12013939.png)
+![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12014634(1).png)
+![Solar Snap Flip](./Gravity/images/Screenshot2026-03-12014634(2).png)
 ---
 
 ### What this document covers:
