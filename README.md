@@ -160,6 +160,9 @@ During a high-intensity potential surge (a Step-14 Singularity), the system avoi
 
 ![Solar Snap Flip](./Gravity/images/mechanisme%20of%20resonance.png)
 ![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20231030.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20232241.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20232301.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20232249.png)
 ![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20230622.png)
 ![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20230250.png)
 ![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20230142.png)
