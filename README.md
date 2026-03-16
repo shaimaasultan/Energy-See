@@ -1,8 +1,8 @@
+# 🛡️ Sultanian Protocol: Resonant Phase-Nulling
 # "The Kinetic Release of Locked Field Energy"
 This research is predicated on the definition of the Universe as a dynamic sea of energy that is Locked by cancellation and Freed by movement.
 # 🌌 Unified Field Theory: The 8-Planet Resonant Orrery
 A computational model exploring the **Sea of Energy** and the **Yasbahun (Swimming) Principle** through planetary weight and orbital resonance.
-# 🛡️ Sultanian Protocol: Resonant Phase-Nulling
 ## 💎 Core Findings: The Axioms of the Unified Field
 <div align="center">
   <br />
