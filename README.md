@@ -159,4 +159,14 @@ The Python simulations included in this repository provide a numerical map of th
 During a high-intensity potential surge (a Step-14 Singularity), the system avoids structural fracture by executing a rapid "V-shape" recovery. By making the Governor's reaction speed ($\partial k / \partial t$) significantly faster than the environmental change ($\partial \Phi / \partial t$), the identity "bounces" off the $R=1.0$ limit, ensuring survival.
 
 ![Solar Snap Flip](./Gravity/images/mechanisme%20of%20resonance.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20231030.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20230622.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20230250.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20230142.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20230120.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20225939.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20230532.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20230347.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20230335.png)
+![Solar Snap Flip](./Gravity/images/Screenshot%202026-03-15%20230315.png)
 *Developed for the Multi-Planetary Orrery Project. 2026.*
